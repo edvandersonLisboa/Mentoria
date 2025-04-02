@@ -44,11 +44,10 @@ class Program {
         meuCachorro.EmitirSom();
     }
 }
-´´´
+```
 📚 Links Úteis
 
-![📺 Introdução à POO no YouTube](https://www.youtube.com/watch?v=dXZRgW-X2ls&list=PLprgbdnzrDkEz9dnAy3_zotbkw4PIaTMM&index=3)
-[**Number Pull Request**:35](https://github.com/edvandersonLisboa/TesteWorkflow/pull/35)
+[📺 Introdução à POO no YouTube](https://www.youtube.com/watch?v=dXZRgW-X2ls&list=PLprgbdnzrDkEz9dnAy3_zotbkw4PIaTMM&index=3)
 [📺 Aprofundamento em POO no YouTube](https://www.youtube.com/watch?v=8VcZkAYygoo&list=PLprgbdnzrDkEz9dnAy3_zotbkw4PIaTMM&index=3)
 Curso completo de POO
 
