@@ -48,6 +48,7 @@ class Program {
 📚 Links Úteis
 
 [📺 Introdução à POO no YouTube](https://www.youtube.com/watch?v=dXZRgW-X2ls&list=PLprgbdnzrDkEz9dnAy3_zotbkw4PIaTMM&index=3)
+<br>
 [📺 Aprofundamento em POO no YouTube](https://www.youtube.com/watch?v=8VcZkAYygoo&list=PLprgbdnzrDkEz9dnAy3_zotbkw4PIaTMM&index=3)
 Curso completo de POO
 
